@@ -2,6 +2,7 @@
 
 This project demonstrates how to set up **automatic mirroring** from a GitLab repository to a GitHub repository.  
 All code changes pushed to GitLab are automatically reflected in GitHub using repository mirroring.
+
 ![](./img/gitlab%20to%20github.jpg)
 
 ---
